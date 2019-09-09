@@ -1,2 +1,3 @@
 # NTDO3
-OPS435 Seneca College
+OPS435NDD Seneca College
+Full Name: Nguyen Tung Do
